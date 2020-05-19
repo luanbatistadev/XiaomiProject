@@ -1,0 +1,41 @@
+body{
+	background: 3d2d2c1 url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/XiaomiHangzhouStore.jpg/1024px-XiaomiHangzhouStore.jpg')
+    font: 16px Arial, Helvetica;
+}
+#principal{ 
+width: 1000px;
+margin: auto;
+}
+#menu{
+	background: black;
+	padding: 18px;
+	text-align: center;
+}
+#conteudo{
+	background: e8e8d9;
+	padding: 10px;
+}
+#rodape{
+	text-align: center;
+
+}
+a{
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+.centralizar{
+	text-align: center;
+}
+.img-geracao{
+	border: 10px soli #c3c3ae
+}
+.img-capa{
+	width: 1000px;
+	height: 400px;
+}
+h1{
+	text-align: center;
+	color: #828271;
+}
