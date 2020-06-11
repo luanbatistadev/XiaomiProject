@@ -39,3 +39,25 @@ h1{
 	text-align: center;
 	color: #828271;
 }
+.boxmodel{
+	width: 250px;
+	border: 2px solid orange;
+	padding: 0px;
+	margin-top: 0px;
+	margin-left: 3px;
+	float: left;
+}
+.ccc{
+	padding: 0px;
+margin: 0px;
+}
+.img{
+	width: 250px;
+	height: 180px;
+	border: 2px solid orange;
+	margin: 2px;
+	float: left;
+}
+.clear{
+	clear: left;
+}
